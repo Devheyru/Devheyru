@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Heyru Jemal</h1>
+![Image](https://github.com/user-attachments/assets/30ab40bd-e826-454a-9d27-5f657fb663f6)
 <h3 align="center">A passionate frontend developerper from Ethiopia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devheyru" alt="devheyru" /></a> </p>
