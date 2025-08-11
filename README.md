@@ -31,7 +31,7 @@ I'm passionate about building performant, user-friendly web & mobile apps using 
 
 ---
 
-### 🔥 Featured Projects
+### 🔥 Some Featured Projects
 
 **[Gym Exercise Helper](https://gym-exercise-app-gold.vercel.app/)**  
 A full-stack web app that helps users perform better in the gym by showing multiple exercises for every body part and target muscles. It also provides sample related YouTube videos.
@@ -45,6 +45,9 @@ A modern, fast, and scalable food delivery mobile app I am currently building.
 ---
 
 ### 📊 GitHub Stats
+<p align="center">
+  <!-- Updated Profile Views Badge -->
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Devheyru&color=green&style=for-the-badge&label=Profile%20Views" />
 
 <p align="center">
   <!-- Main Stats Cards (now with forced cache refresh) -->
@@ -54,9 +57,8 @@ A modern, fast, and scalable food delivery mobile app I am currently building.
   </a>
 </p>
 
-<p align="center">
-  <!-- Updated Profile Views Badge -->
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Devheyru&color=green&style=for-the-badge&label=Profile%20Views" />
+
+  ---
   
   <!-- New! Activity Graph (real-time updates) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devheyru&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%"/>
