@@ -8,11 +8,26 @@ I'm passionate about building performant, user-friendly web & mobile apps using 
 
 ### 💻 Tech Stack
 
-[![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)](https://reactjs.org/) 
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)](https://nextjs.org/) 
-[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter)](https://flutter.dev/) 
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)](https://nodejs.org/) 
-[![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel)](https://laravel.com/)
+<p align="center">
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react" alt="React"/>
+  </a>
+  <a href="https://nextjs.org/">
+    <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js" alt="Next.js"/>
+  </a>
+  <a href="https://flutter.dev/">
+    <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter" alt="Flutter"/>
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  </a>
+  <a href="https://nodejs.org/">
+    <img src="https://img.shields.io/badge/-Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  </a>
+  <a href="https://laravel.com/">
+    <img src="https://img.shields.io/badge/-Laravel-FB503B?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  </a>
+</p>
 
 ---
 
@@ -32,24 +47,22 @@ A modern, fast, and scalable food delivery mobile app I am currently building.
 ### 📊 GitHub Stats
 
 <p align="center">
+  <!-- Main Stats Cards (now with forced cache refresh) -->
   <a href="https://github.com/Devheyru">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devheyru&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Heyru's GitHub stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devheyru&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devheyru&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_breaker=1" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devheyru&layout=compact&theme=radical&hide_border=true&cache_breaker=1" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Devheyru?tab=repositories">
-    <img alt="Total Stars" src="https://img.shields.io/github/stars/Devheyru?color=gold&style=for-the-badge&label=Total%20Stars&logo=github" />
-  </a>
-  <a href="https://github.com/Devheyru">
-    <img alt="Followers" src="https://img.shields.io/github/followers/Devheyru?color=blue&style=for-the-badge&label=GitHub%20Followers&logo=github" />
-  </a>
-  <a href="https://github.com/Devheyru">
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Devheyru&color=green&style=for-the-badge&label=Profile%20Views" />
-  </a>
+  <!-- Updated Profile Views Badge -->
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Devheyru&color=green&style=for-the-badge&label=Profile%20Views" />
+  
+  <!-- New! Activity Graph (real-time updates) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devheyru&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%"/>
 </p>
 
+<!-- Streak Stats (now with cache refresh) -->
 <p align="center">
   <a href="https://github.com/Devheyru">
     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Devheyru&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -77,6 +90,6 @@ A modern, fast, and scalable food delivery mobile app I am currently building.
 
 ---
 
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+ <p align="center">"Code is like humor. When you have to explain it, it's bad." — Cory House</p>
 
-Thanks for visiting my profile! Let's build something amazing together! 🚀
+<h2>Thanks for visiting my profile! Let's build something amazing together! 🚀</h2>
