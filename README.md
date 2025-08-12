@@ -64,6 +64,8 @@ A modern, fast, and scalable food delivery mobile app I am currently building.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devheyru&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%"/>
 </p>
 
+---
+
 <!-- Streak Stats (now with cache refresh) -->
 <p align="center">
   <a href="https://github.com/Devheyru">
