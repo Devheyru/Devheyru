@@ -50,11 +50,8 @@ A modern, fast, and scalable food delivery mobile app I am currently building.
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Devheyru&color=green&style=for-the-badge&label=Profile%20Views" />
 
 <p align="center">
-  <!-- Main Stats Cards (now with forced cache refresh) -->
-  <a href="https://github.com/Devheyru">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devheyru&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_breaker=1" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devheyru&layout=compact&theme=radical&hide_border=true&cache_breaker=1" alt="Top Languages" />
-  </a>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devheyru&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_breaker=<PUT_SHA_HERE>" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devheyru&layout=compact&theme=radical&hide_border=true&cache_breaker=<PUT_SHA_HERE>" />
 </p>
 
 
