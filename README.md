@@ -45,22 +45,18 @@ A modern, fast, and scalable food delivery mobile app I am currently building.
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <!-- Updated Profile Views Badge -->
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Devheyru&color=green&style=for-the-badge&label=Profile%20Views" />
 
 <p align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devheyru&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_breaker=<PUT_SHA_HERE>" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devheyru&layout=compact&theme=radical&hide_border=true&cache_breaker=<PUT_SHA_HERE>" />
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Devheyru&color=green&style=for-the-badge&label=Profile%20Views" />
 </p>
 
-
-  ---
-
-
-<!-- 🗓️ 1 FULL YEAR of CONTRIBUTIONS -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devheyru&theme=react-dark&hide_border=true&area=true&hide_title=true&custom_title=Annual%20Contributions&area_color=13FF17" alt="Annual Activity Graph" width="100%"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devheyru&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=prs,issues" />
+  
+
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devheyru&layout=compact&theme=radical&langs_count=8" />
 </p>
 
 ---
