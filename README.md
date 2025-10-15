@@ -49,24 +49,21 @@ A modern, fast, and scalable food delivery mobile app I am currently building.
 <p align="center">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Devheyru&color=green&style=for-the-badge&label=Profile%20Views" />
 </p>
-
+<!-- Activity Graph - Matching Radical Theme -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devheyru&theme=radical&hide_border=true&area=true&color=FFFFFF&line=00A2E8&point=FFFFFF&bg_color=0D1117" />
+</p>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devheyru&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=prs,issues" />
   
-
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Devheyru&theme=radical&hide_border=true" />
+</p>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devheyru&layout=compact&theme=radical&langs_count=8" />
 </p>
 
----
 
-<!-- Streak Stats (now with cache refresh) -->
-<p align="center">
-  <a href="https://github.com/Devheyru">
-    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Devheyru&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
 
 ---
 
