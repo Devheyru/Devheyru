@@ -49,13 +49,15 @@ A modern, fast, and scalable food delivery mobile app I am currently building.
 <p align="center">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Devheyru&color=green&style=for-the-badge&label=Profile%20Views" />
 </p>
-<!-- Activity Graph - Matching Radical Theme -->
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devheyru&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=prs,issues" />
+  </p>
+  <!-- Activity Graph - Matching Radical Theme -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devheyru&theme=radical&hide_border=true&area=true&color=FFFFFF&line=00A2E8&point=FFFFFF&bg_color=0D1117" />
 </p>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devheyru&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=prs,issues" />
-  
+  <p align="center">
   <img height="180em" src="https://streak-stats.demolab.com/?user=Devheyru&theme=radical&hide_border=true" />
 </p>
 
