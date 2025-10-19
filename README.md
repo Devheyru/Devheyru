@@ -47,19 +47,22 @@ A modern, fast, and scalable food delivery mobile app I am currently building.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Devheyru&color=green&style=for-the-badge&label=Profile%20Views" />
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Devheyru&color=24CF53&style=for-the-badge&label=Profile%20Views" />
 </p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=24CF53&center=true&vCenter=true&width=435&lines=TRUSR+THE+PROCESS" alt="Trust the Process" />
+</p>
+</p>
+  <p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Devheyru&theme=radical&hide_border=true" />
+</p>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devheyru&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=prs,issues" />
   </p>
   <!-- Activity Graph - Matching Radical Theme -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devheyru&theme=radical&hide_border=true&area=true&color=FFFFFF&line=00A2E8&point=FFFFFF&bg_color=0D1117" />
-</p>
-  <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=Devheyru&theme=radical&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devheyru&layout=compact&theme=radical&langs_count=8" />
