@@ -6,28 +6,16 @@ I'm passionate about building performant, user-friendly web & mobile apps using 
 
 ---
 
-### 💻 Tech Stack
+## 🌐 Tech Stack
 
-<p align="center">
-  <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react" alt="React"/>
-  </a>
-  <a href="https://nextjs.org/">
-    <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js" alt="Next.js"/>
-  </a>
-  <a href="https://flutter.dev/">
-    <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter" alt="Flutter"/>
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  </a>
-  <a href="https://nodejs.org/">
-    <img src="https://img.shields.io/badge/-Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  </a>
-  <a href="https://laravel.com/">
-    <img src="https://img.shields.io/badge/-Laravel-FB503B?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  </a>
-</p>
+### 💻 Frontend & Mobile
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,typescript,javascript,html,css,tailwind" /> </p>
+
+### ⚙️ Backend & Databases
+<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,laravel,php,mysql,mongodb,postgres,firebase" /> </p>
+
+### 🛠️ Tools & Platforms
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode,androidstudio,docker" /> </p>
 
 ---
 
