@@ -42,7 +42,9 @@ A modern, fast, and scalable food delivery mobile app I am currently building.
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=24CF53&center=true&vCenter=true&width=435&lines=TRUST+THE+PROCESS" alt="Trust the Process" />
 </p>
 
-
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Devheyru&theme=radical&hide_border=true" />
+</p>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devheyru&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=prs,issues" />
