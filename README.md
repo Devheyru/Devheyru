@@ -4,7 +4,6 @@
 
 I'm passionate about building performant, user-friendly web & mobile apps using modern technologies. Always exploring new tools and AI-driven solutions to create impactful software.
 
----
 
 
 ## 🌐 Tech Stack
