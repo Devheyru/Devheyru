@@ -143,6 +143,32 @@ I'm a **Full-Stack Web & Mobile Developer** passionate about building performant
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                    UPWORK PROFILE OPTIMIZATION                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">💼 Upwork Profile Optimization</h2>
+
+<p align="center">
+Need help setting up your Upwork profile? Here's a proven structure I can help you apply:
+</p>
+
+<ul>
+  <li><strong>Headline:</strong> Use a clear outcome-driven title (e.g., <em>Full-Stack Developer | React, Next.js, Flutter, Laravel</em>).</li>
+  <li><strong>Overview:</strong> Start with client outcomes, then show stack, process, and proof from real projects.</li>
+  <li><strong>Portfolio:</strong> Add 3-5 focused case studies with problem, solution, tech stack, and measurable impact.</li>
+  <li><strong>Specialized Profiles:</strong> Create separate profiles for <em>Web (React/Next.js)</em> and <em>Mobile (Flutter)</em>.</li>
+  <li><strong>Project Catalog:</strong> Offer productized services (landing pages, API integrations, bug fixing, MVP builds).</li>
+  <li><strong>Proposals:</strong> Use short custom proposals with a quick audit + clear next step for the client.</li>
+  <li><strong>Credibility:</strong> Add certifications, intro video, availability, and a professional profile photo.</li>
+</ul>
+
+<p align="center">
+📩 If you want, I can help rewrite your <strong>headline</strong>, <strong>overview</strong>, and <strong>proposal template</strong> for your niche.
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                         CONNECT WITH ME                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
