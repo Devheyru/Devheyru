@@ -10,13 +10,13 @@ I design and build reliable, user-focused digital products across web and mobile
 My work combines thoughtful UX, maintainable architecture, and modern technologies to turn ideas into useful software.
 
 <p>
-  <a href="https://heyrus-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-ff4f8b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://heyrus-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:heyru638@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/devheyru/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://t.me/Abushe121"><img src="https://img.shields.io/badge/Telegram-Message-26a5e4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Devheyru&color=ff4f8b&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Devheyru&color=22c55e&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -65,12 +65,12 @@ My work combines thoughtful UX, maintainable architecture, and modern technologi
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Devheyru&theme=react-dark&hide_border=true&area=true&color=ffffff&line=ff4f8b&point=ffffff&bg_color=0d1117" alt="Live GitHub activity graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Devheyru&theme=react-dark&hide_border=true&area=true&color=ffffff&line=22c55e&point=ffffff&bg_color=0d1117" alt="Live GitHub activity graph" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Devheyru?tab=followers"><img src="https://img.shields.io/github/followers/Devheyru?style=for-the-badge&logo=github&label=Followers&color=ff4f8b&labelColor=0d1117" alt="GitHub followers" /></a>
-  <a href="https://github.com/Devheyru?tab=repositories"><img src="https://img.shields.io/github/stars/Devheyru?style=for-the-badge&logo=github&label=Profile%20stars&color=ff4f8b&labelColor=0d1117" alt="GitHub stars" /></a>
+  <a href="https://github.com/Devheyru?tab=followers"><img src="https://img.shields.io/github/followers/Devheyru?style=for-the-badge&logo=github&label=Followers&color=22c55e&labelColor=0d1117" alt="GitHub followers" /></a>
+  <a href="https://github.com/Devheyru?tab=repositories"><img src="https://img.shields.io/github/stars/Devheyru?style=for-the-badge&logo=github&label=Profile%20stars&color=22c55e&labelColor=0d1117" alt="GitHub stars" /></a>
 </p>
 
 ---
