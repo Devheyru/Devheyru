@@ -46,6 +46,7 @@ My work combines thoughtful UX, maintainable architecture, and modern technologi
 | Project | What it does | |
 |---|---|---|
 | [**Gym Exercise Helper**](https://gym-exercise-app-gold.vercel.app/) | Helps users discover targeted exercises with related video tutorials. | [Live demo](https://gym-exercise-app-gold.vercel.app/) |
+| [**Gym Exercise Helper**](https://gym-exercise-app-gold.vercel.app/) | Helps users discover targeted exercises with related video tutorials. | [Live demo](https://gym-exercise-app-gold.vercel.app/) |
 | [**AI Interview Mocker**](https://ai-interview-mocker-ruby.vercel.app/) | Generates tailored interview questions and provides AI-assisted answer feedback. | [Live demo](https://ai-interview-mocker-ruby.vercel.app/) |
 | [**Minoo-Delivery**](https://github.com/Devheyru/Delivery) | A fast, scalable food-delivery mobile app currently in active development. | [Source code](https://github.com/Devheyru/Delivery) |
 
